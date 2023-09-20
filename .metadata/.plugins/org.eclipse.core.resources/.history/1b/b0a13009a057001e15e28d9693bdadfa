@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Suma de numeros/title>
+</head>
+<body>
+<h1>METODO GET</h1>
+    <form action="Suma" method="get">
+        Nombre: <input type="text" name="num1">
+        Apellido: <input type="text" name="num2">
+        <input type="submit" value="Enviar">
+    </form>
+    
+    <br>
+    <h1>METODO POST</h1>
+    <form action="Suma" method="post">
+        Nombre: <input type="text" name="num1">
+        Apellido: <input type="text" name="num2">
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

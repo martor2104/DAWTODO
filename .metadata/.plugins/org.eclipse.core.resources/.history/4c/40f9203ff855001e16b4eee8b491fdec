@@ -1,0 +1,19 @@
+import jakarta.servlet.http.HttpServlet;
+
+public class Suma {
+
+	/**
+	 * Servlet implementation class Saluda
+	 */
+	public class Saluda extends HttpServlet {
+		private static final long serialVersionUID = 1L;
+
+	    /**
+	     * Default constructor. 
+	     * @return 
+	     */
+	    public void Suma() {
+	        // TODO Auto-generated constructor stub
+	    }
+	}
+}
