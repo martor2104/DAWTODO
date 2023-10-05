@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.Producto"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.apache.taglibs.standard.extra.spath.ParseException"/>
+    <fullyQualifiedTypeName name="org.apache.taglibs.standard.lang.jstl.parser.ParseException"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.debugger.win32.coff.DebugVC50SrcModFileDesc"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="com.model.Persona"/>
+    <fullyQualifiedTypeName name="com.model.Persona.genero"/>
+    <fullyQualifiedTypeName name="com.dao.ImagenDAO"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+</qualifiedTypeNameHistroy>
